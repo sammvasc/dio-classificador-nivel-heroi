@@ -26,3 +26,14 @@ Criar uma estrutura que classifica o herói conforme seu XP:
 | ≥ 10001 | Radiante |
 
 ---
+
+---
+
+## Como executar o projeto
+
+1. Certifique-se de ter o **Python 3** instalado.
+2. No terminal, entre na pasta do projeto.
+3. Execute o arquivo:
+
+```bash
+python src/classificador.py
